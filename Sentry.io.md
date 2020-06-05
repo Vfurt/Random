@@ -23,7 +23,7 @@ Enquanto New Relic oferece recursos para facilitar a análise de performance dos
  - Suporte para diversas plataformas: Javascript, .Net, Node, Java, Android, iOS 
  
 ## Planos e licença
-Sentry.io conta com as licenças MIT e Apache, é totalmente open source e pode ser utilizado por empresas por completo desde que não seja comercializado (BSL), além de oferecer os serviços cloud Team e business.
+Sentry.io conta com as licenças MIT e Apache, é totalmente open source e pode ser utilizado por empresas por completo desde que não seja comercializado (BSL), além de oferecer os serviços cloud Team e Business.
 
 #### Team: $29/mês
 - Até 100.000 eventos
