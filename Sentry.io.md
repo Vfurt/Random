@@ -174,8 +174,7 @@ import angular from 'angular';
 import * as Sentry from '@sentry/browser';
 import { Angular as AngularIntegration } from '@sentry/integrations';
 
-// Make sure to call Sentry.init after importing AngularJS. 
-// You can also pass {angular: AngularInstance} to the Integrations.Angular() constructor.
+// Após importar AngularJS 
 Sentry.init({
   dsn: 'https://SENTRY_USER_ID.ingest.sentry.io/5266297',
   integrations: [
