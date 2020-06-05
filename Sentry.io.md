@@ -4,7 +4,7 @@ Sentry é uma ferramenta Open Source para captação de eventos e exceções em 
 
 Enquanto New Relic oferece recursos para facilitar a análise de performance dos aplicativos, Sentry oferece recursos como:
 
-### Relatórios de erros
+#### Relatórios de erros
  - Updates de erros e notificações da aplicação em tempo real
 ![N](https://i.imgur.com/RI6rP65.png)
  - Informa o contexto da aplicação durante o erro
@@ -40,8 +40,8 @@ Sentry.io conta com as licenças MIT e Apache, é totalmente open source e pode 
 - Métricas customizáveis na ferramenta Discover
 
 
-### Configuração
-#### Vue.JS: https://docs.sentry.io/clients/javascript/integrations/#vue
+## Configuração
+### Vue.JS: https://docs.sentry.io/clients/javascript/integrations/#vue
 1. Instalar @sentry/browser:
 ```
 # Yarn
@@ -65,7 +65,7 @@ Sentry.init({
 });
 ```
 
-#### Angular: https://docs.sentry.io/clients/javascript/integrations/#angular
+### Angular: https://docs.sentry.io/clients/javascript/integrations/#angular
 1. Instalar @sentry/browser:
 ```
 # Yarn
@@ -158,7 +158,7 @@ export class SentryErrorHandler implements ErrorHandler {
 export class AppModule {}
 ```
 
-#### AngularJS: https://docs.sentry.io/clients/javascript/integrations/#angularjs
+### AngularJS: https://docs.sentry.io/clients/javascript/integrations/#angularjs
 1. Instalar @sentry/browser:
 ```
 # Yarn
