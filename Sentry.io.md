@@ -25,7 +25,7 @@ Enquanto New Relic oferece recursos para facilitar a análise de performance dos
 ## Planos e licença
 Sentry.io conta com as licenças MIT e Apache, é totalmente open source e pode ser utilizado por empresas por completo desde que não seja comercializado (BSL), além de oferecer os serviços cloud Team e business.
 
-#### Team: $29/mês
+#### Team: $26/mês
 - Até 100.000 eventos
 - Integração automática com Jira e repositórios
 - Notificações semanais
